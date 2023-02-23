@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jonmikeli
+
 - 👀 I’m interested in a lot of things. In a few words, creating value, learning, improving day after day and trying to work smart, not only hard.
 
 In IT, my fields of predilection these last years have been IoT and Azure (backend) solutions.
